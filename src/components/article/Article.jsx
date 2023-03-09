@@ -18,4 +18,4 @@ const Article = ({ imgUrl, date, title }) => {
   )
 }
 
-export default Article;
+export default Article
